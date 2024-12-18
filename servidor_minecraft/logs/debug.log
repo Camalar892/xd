@@ -2474,3 +2474,97 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 00:57:57.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 01:02:57.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 01:02:57.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:07:57.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:07:57.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/service' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/installed' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[18Dec2024 01:08:18.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[18Dec2024 01:08:18.774] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 3db267cc-5653-38a8-90fd-bbcdac507f0a
+[18Dec2024 01:08:18.805] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[18Dec2024 01:08:18.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:35559] logged in with entity id 4104 at (8251.548427449869, -16.12366402088785, 9465.716524583475)
+[18Dec2024 01:08:18.865] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@55472db3 into net.minecraft.network.Connection@2d56e56c
+[18Dec2024 01:08:18.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[18Dec2024 01:08:33.117] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+[18Dec2024 01:09:00.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[18Dec2024 01:09:00.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[18Dec2024 01:12:57.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:12:57.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/service' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/installed' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[18Dec2024 01:16:18.579] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[18Dec2024 01:16:18.580] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 3db267cc-5653-38a8-90fd-bbcdac507f0a
+[18Dec2024 01:16:18.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[18Dec2024 01:16:18.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:56475] logged in with entity id 4583 at (8222.57574246866, -18.147209977716706, 9454.516646494634)
+[18Dec2024 01:16:18.664] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@e5a9ca3 into net.minecraft.network.Connection@3bef5883
+[18Dec2024 01:16:18.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[18Dec2024 01:16:34.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode spectator
+[18Dec2024 01:16:34.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
+[18Dec2024 01:16:46.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode creative
+[18Dec2024 01:16:46.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[18Dec2024 01:17:03.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[18Dec2024 01:17:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/service' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/installed' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[18Dec2024 01:17:18.083] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[18Dec2024 01:17:18.084] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 3db267cc-5653-38a8-90fd-bbcdac507f0a
+[18Dec2024 01:17:18.105] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[18Dec2024 01:17:18.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:33051] logged in with entity id 5277 at (8185.035701389443, 66.04700149205435, 9497.435583297985)
+[18Dec2024 01:17:18.161] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5f199211 into net.minecraft.network.Connection@7e67564
+[18Dec2024 01:17:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[18Dec2024 01:17:57.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:17:57.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:18:10.119] [Server thread/DEBUG] [mixin/]: Mixing world.item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.world.item.trading.MerchantOffer
+[18Dec2024 01:18:10.132] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[18Dec2024 01:18:12.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /weather rain
+[18Dec2024 01:18:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set the weather to rain]
+[18Dec2024 01:18:34.598] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo tenia el que le habia pasado antes ya
+[18Dec2024 01:18:41.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /weather clear
+[18Dec2024 01:18:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set the weather to clear]
+[18Dec2024 01:18:48.523] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estoy en vanilla por si acaso xd
+[18Dec2024 01:19:06.363] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si por que se puede entrar en vanilla normal
+[18Dec2024 01:19:21.222] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ño
+[18Dec2024 01:19:30.839] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que el puto mod no existe
+[18Dec2024 01:19:39.492] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo borraron los de mojang
+[18Dec2024 01:20:06.459] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> contra mira el golem
+[18Dec2024 01:21:41.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode survival
+[18Dec2024 01:21:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
+[18Dec2024 01:21:42.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode spectator
+[18Dec2024 01:21:42.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
+[18Dec2024 01:22:10.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /locate structure dungeons_arise:coliseum
+[18Dec2024 01:22:15.242] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:coliseum took 4813 ms
+[18Dec2024 01:22:15.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4788ms or 95 ticks behind
+[18Dec2024 01:22:26.201] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pou
+[18Dec2024 01:22:27.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /tp @s 5760 ~ 15424
+[18Dec2024 01:22:32.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to 5760.500000, 68.124266, 15424.500000]
+[18Dec2024 01:22:32.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[18Dec2024 01:22:44.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[18Dec2024 01:22:44.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[18Dec2024 01:23:05.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:23:05.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
