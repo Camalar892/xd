@@ -253,3 +253,18 @@
 [18Dec2024 01:22:32.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
 [18Dec2024 01:22:44.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
 [18Dec2024 01:22:44.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[18Dec2024 01:32:42.934] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 3db267cc-5653-38a8-90fd-bbcdac507f0a
+[18Dec2024 01:32:43.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:41453] logged in with entity id 7804 at (5761.983642583219, 82.1867660623978, 15416.370990403642)
+[18Dec2024 01:32:43.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[18Dec2024 01:32:50.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7813, l='ServerLevel[world]', x=5743.48, y=110.00, z=15402.54] died, message: 'Villager suffocated in a wall'
+[18Dec2024 01:33:02.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode creative
+[18Dec2024 01:33:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[18Dec2024 01:35:01.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /locate structure #betteroceanmonuments:better_ocean_monuments
+[18Dec2024 01:35:01.491] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #betteroceanmonuments:better_ocean_monuments (betteroceanmonuments:ocean_monument) took 52 ms
+[18Dec2024 01:35:42.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /tp @s 6736 ~ 13600
+[18Dec2024 01:35:46.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to 6736.500000, 136.000000, 13600.500000]
+[18Dec2024 01:35:46.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3836ms or 76 ticks behind
+[18Dec2024 01:36:49.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode spectator
+[18Dec2024 01:36:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
+[18Dec2024 01:37:52.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode creative
+[18Dec2024 01:37:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
