@@ -209,3 +209,6 @@
 [18Dec2024 00:42:16.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /effect clear Calamar892 minecraft:night_vision
 [18Dec2024 00:42:16.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Removed effect Night Vision from Calamar892]
 [18Dec2024 00:42:30.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
+[18Dec2024 00:48:47.920] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18Dec2024 00:49:38.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[18Dec2024 00:49:38.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
