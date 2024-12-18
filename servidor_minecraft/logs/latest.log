@@ -342,3 +342,15 @@
 [18Dec2024 02:16:33.014] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
 [18Dec2024 02:16:33.015] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
 [18Dec2024 02:16:33.015] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[18Dec2024 02:19:38.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[18Dec2024 02:20:40.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has reached the goal [Pocket Edition Alpha]
+[18Dec2024 02:21:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Hot Stuff]
+[18Dec2024 02:24:47.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /locate structure dungeons_arise:typhon
+[18Dec2024 02:25:17.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /locate structure betterfortresses:fortress
+[18Dec2024 02:25:17.802] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterfortresses:fortress took 208 ms
+[18Dec2024 02:25:21.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /tp @s 96 ~ 1104
+[18Dec2024 02:25:24.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to 96.500000, 61.032601, 1104.500000]
+[18Dec2024 02:25:24.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
+[18Dec2024 02:25:25.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [A Terrible Fortress]
+[18Dec2024 02:25:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Strange Biomes]
+[18Dec2024 02:25:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Darude - Firestorm]

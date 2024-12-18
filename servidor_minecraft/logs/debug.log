@@ -2741,3 +2741,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 02:16:33.015] [Worker-Main-107/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
 [18Dec2024 02:18:22.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 02:18:22.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:19:38.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[18Dec2024 02:20:40.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has reached the goal [Pocket Edition Alpha]
+[18Dec2024 02:21:29.974] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_20_R1/inventory/CraftInventoryCustom$MinecraftInventory
+[18Dec2024 02:21:29.975] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.world.inventory.MerchantContainer
+[18Dec2024 02:21:29.980] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_EmptyContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$EmptyContainer
+[18Dec2024 02:21:29.981] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_InputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$InputContainer
+[18Dec2024 02:21:29.982] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$InputContainer
+[18Dec2024 02:21:29.983] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_OutputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$OutputContainer
+[18Dec2024 02:21:29.983] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$OutputContainer
+[18Dec2024 02:21:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Hot Stuff]
+[18Dec2024 02:23:24.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:23:24.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:24:06.395] [Worker-Main-92/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/ItemFrame$2
+[18Dec2024 02:24:06.395] [Worker-Main-92/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/HangingEntity$1
+[18Dec2024 02:24:47.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /locate structure dungeons_arise:typhon
+[18Dec2024 02:25:17.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /locate structure betterfortresses:fortress
+[18Dec2024 02:25:17.802] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterfortresses:fortress took 208 ms
+[18Dec2024 02:25:21.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /tp @s 96 ~ 1104
+[18Dec2024 02:25:24.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to 96.500000, 61.032601, 1104.500000]
+[18Dec2024 02:25:24.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
+[18Dec2024 02:25:25.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [A Terrible Fortress]
+[18Dec2024 02:25:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Strange Biomes]
+[18Dec2024 02:25:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Darude - Firestorm]
+[18Dec2024 02:28:28.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:28:28.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
