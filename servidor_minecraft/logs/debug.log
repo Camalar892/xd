@@ -2603,3 +2603,45 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 01:36:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
 [18Dec2024 01:37:52.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode creative
 [18Dec2024 01:37:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[18Dec2024 01:38:08.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:38:08.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:38:23.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /locate structure betterjungletemples:jungle_temple
+[18Dec2024 01:38:24.517] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterjungletemples:jungle_temple took 652 ms
+[18Dec2024 01:38:35.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /tp @s 8160 ~ 14208
+[18Dec2024 01:38:36.703] [Worker-Main-68/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RedStoneWireBlock$1
+[18Dec2024 01:38:37.439] [Worker-Main-66/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/DetectorRailBlock$1
+[18Dec2024 01:38:38.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to 8160.500000, 20.744125, 14208.500000]
+[18Dec2024 01:38:38.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2932ms or 58 ticks behind
+[18Dec2024 01:38:44.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode spectator
+[18Dec2024 01:38:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
+[18Dec2024 01:38:55.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 issued server command: /gamemode creative
+[18Dec2024 01:38:55.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[18Dec2024 01:38:56.301] [Worker-Main-79/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RailBlock$1
+[18Dec2024 01:39:33.617] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/block/piston/PistonBaseBlock$1BlockList$23a26ac66b91498b845eaab33049e03f (originally io/izzel/arclight/common/mixin/core/world/level/block/PistonBlockMixin$1BlockList)
+[18Dec2024 01:39:33.624] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/piston/PistonMath$1
+[18Dec2024 01:39:35.114] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/projectile/AbstractArrow$1
+[18Dec2024 01:39:36.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[18Dec2024 01:39:36.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/service' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/installed' : Vanilla acceptance test: ACCEPTED
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[18Dec2024 01:41:08.173] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[18Dec2024 01:41:08.173] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 3db267cc-5653-38a8-90fd-bbcdac507f0a
+[18Dec2024 01:41:08.205] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[18Dec2024 01:41:08.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:50729] logged in with entity id 9882 at (8158.300000011921, 61.0, 14214.831961436948)
+[18Dec2024 01:41:08.261] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@21eef113 into net.minecraft.network.Connection@654d5c50
+[18Dec2024 01:41:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[18Dec2024 01:42:50.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[18Dec2024 01:42:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[18Dec2024 01:43:11.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:43:11.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:48:11.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:48:11.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
